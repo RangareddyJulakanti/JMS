@@ -1,0 +1,10 @@
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\configuration\ProducerApplication.java
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\configuration\AppConfig.java
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\messaging\MessageReceiver.java
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\util\BasicUtil.java
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\model\InventoryResponse.java
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\model\Product.java
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\configuration\MessagingConfiguration.java
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\service\ProductService.java
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\messaging\MessageSender.java
+D:\JMS\SpringJMSActiveMQProducerEx1\src\main\java\com\websystique\spring\service\ProductServiceImpl.java
